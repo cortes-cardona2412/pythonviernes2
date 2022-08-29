@@ -1,2 +1,3 @@
-# pythonviernes2
-condionales con phayton
+pythonviernes2
+condicionales con phyton
+# Stefani Cortes
